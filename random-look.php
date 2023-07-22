@@ -3,7 +3,7 @@
 Plugin Name: Random Look
 Plugin URI: https://github.com/sy-records/random-look
 Description: 添加随便看看，顾名思义就是随机给出文章来看看，很小但很实用。
-Version: 1.0.0
+Version: 1.0.1
 Author: 沈唁
 Author URI: https://qq52o.me
 License: Apache 2.0

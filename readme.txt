@@ -3,9 +3,9 @@ Contributors: shenyanzhi
 Donate link: https://qq52o.me/sponsor.html
 Tags: random, 随机, 随便看看
 Requires at least: 4.2
-Tested up to: 5.4
+Tested up to: 6.3
 Requires PHP: 5.6.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: Apache 2.0
 License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 
@@ -32,6 +32,9 @@ License URI: http://www.apache.org/licenses/LICENSE-2.0.html
 1. screenshot-1.png
 
 == Changelog ==
+
+= 1.0.1 =
+* Support WordPress 6.3
 
 = 1.0.0 =
 * First version
