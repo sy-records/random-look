@@ -3,7 +3,7 @@ Contributors: shenyanzhi
 Donate link: https://qq52o.me/sponsor.html
 Tags: random, 随机, 随便看看
 Requires at least: 4.2
-Tested up to: 6.5
+Tested up to: 4.6
 Requires PHP: 5.6.0
 Stable tag: 1.0.1
 License: Apache 2.0
